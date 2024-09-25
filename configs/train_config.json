@@ -1,0 +1,16 @@
+{   
+    "MEAN": [0.0, 0.0, 0.0],
+    "STD": [1.0, 1.0, 1.0],
+    "VAL_SIZE": 0.1,
+    "EPOCHS": 20,
+    "INPUT_DIM": 3,
+    "REAL_DIM": 3,
+    "GLOBAL_CRITIC_NUM_DOWN_BLOCKS": 4,
+    "LOCAL_CRITIC_NUM_DOWN_BLOCKS": 2,
+    "BATCH_SIZE": 8,
+    "LR": 0.0002,
+    "C_LAMBDA": 10, 
+    "CRITIC_REPEATS": 5,
+    "LAMBDA_RECON": 200,
+    "TARGET_SIZE": 256
+}
